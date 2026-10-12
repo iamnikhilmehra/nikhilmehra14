@@ -31,5 +31,5 @@
 ## 👀 Profile Views
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikhilmehra14&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=iamnikhilmehra&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Visitor Count" />
 </div>
